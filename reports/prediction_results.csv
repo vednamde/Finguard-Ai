@@ -1,0 +1,6 @@
+Company,Predicted Status,Risk Probability (%),Financial Health Score (0-100)
+Company 1,✅ Healthy,0.94,99.06067
+Company 2,✅ Healthy,0.94,99.06067
+Company 3,🚨 Distressed,95.47,4.525882
+Company 4,✅ Healthy,0.94,99.06067
+Company 5,✅ Healthy,0.94,99.06067

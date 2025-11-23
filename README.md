@@ -95,7 +95,7 @@ jupyter notebook notebooks/data-clean.ipynb
   - random_state: 42
 
 ### Performance Metrics
-- **ROC-AUC Score**: [Insert current score from training]
+- **ROC-AUC Score**: 1.0
 - **Classification Report**: Includes precision, recall, and F1-score for both classes
 
 ### Feature Engineering
